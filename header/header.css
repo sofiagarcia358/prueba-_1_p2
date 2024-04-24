@@ -1,0 +1,21 @@
+header{
+    width: 120rem;
+    margin: auto;
+    height: 8rem;
+    border-bottom: 1px solid rgb(127, 120, 120);
+    
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+
+}
+header .box-img{
+    width: 6rem;
+    height: 6rem;
+
+}
+header .box-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
