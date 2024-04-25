@@ -1,0 +1,17 @@
+.section_banner{
+    width: 120rem;
+    height: 30rem;
+    margin: auto;
+
+    background-color: aliceblue;
+}
+.section_banner .box{
+    width: 6rem;
+    height: 6rem;
+}
+.section_banner .box img{
+    width: 2000%;
+    height: 500%;
+    object-fit: cover;
+    object-position: center;
+}
